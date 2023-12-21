@@ -8,10 +8,10 @@ More information can be found in [Docs](https://docs.tons.ink/)
 
 ```
 {
-    "url": "https://tonsmarket.github.io/index.html",
+    "url": "https://tonscriptions.github.io/tonsmarket-manifest/index.html",
     "name": "Tonsmarket",
-    "iconUrl": "https://tonsmarket.github.io/logo.png",
-    "termsOfUseUrl": "https://tonsmarket.github.io/terms-of-use.txt",
-    "privacyPolicyUrl": "https://tonsmarket.github.io/privacy-policy.txt"
+    "iconUrl": "https://tonscriptions.github.io/tonsmarket-manifest/logo.png",
+    "termsOfUseUrl": "https://tonscriptions.github.io/tonsmarket-manifest/terms-of-use.txt",
+    "privacyPolicyUrl": "https://tonscriptions.github.io/tonsmarket-manifest/privacy-policy.txt"
 }
 ```
